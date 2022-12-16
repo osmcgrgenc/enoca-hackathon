@@ -17,7 +17,7 @@ Tasarıma uygun bir film sitesi yapımı.
 Bu API token ile çalışmaktadır. Üye olarak token alabilirsiniz.
 
 ```
-https://developers.themoviedb.org/3/getting-started/introduction
+https://lk.tc/s4YOr
 ```
 
 ## Tasarım
@@ -25,16 +25,10 @@ https://developers.themoviedb.org/3/getting-started/introduction
 Tasarıma figma üzerinden kolayca ulaşabilirsiniz.
 
 ```
-https://www.figma.com/file/6GfqZQ2NjkZ95hkBiOCbXt/Movies-app-(Community)-(Copy)?node-id=0%3A1&t=YRz6uAC5bhHamojj-0
+https://lk.tc/VfXED
 ```
 
-veya
-
-```
-https://github.com/osmcgrgenc/enoca-hackathon.git
-```
-
-## QR Kod:
+## Linkler için QR Kod: (https://lk.tc/Yn3Ui)
 
 ![IMAGE](./qr.png)
 **Kodlarında clean code kurallarına uymayı unutma.**
