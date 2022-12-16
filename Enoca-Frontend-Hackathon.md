@@ -34,6 +34,9 @@ veya
 https://github.com/osmcgrgenc/enoca-hackathon.git
 ```
 
+## QR Kod:
+
+![IMAGE](./qr.png)
 **Kodlarında clean code kurallarına uymayı unutma.**
 
 **Başarılar**
